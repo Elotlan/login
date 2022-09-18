@@ -39,11 +39,6 @@ class MainActivity : AppCompatActivity() {
                    ButtonS.isEnabled = false
                    email.setError("Email invalido")
                }
-
-
-                //if (email.length()>0 && password.length() > 0) {
-                  //  ButtonS.isEnabled = true
-                //}
             }
 
         })
